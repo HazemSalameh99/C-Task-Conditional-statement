@@ -1,0 +1,16 @@
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.exe
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.deps.json
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.runtimeconfig.json
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.runtimeconfig.dev.json
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.dll
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\ref\Conditional statement.dll
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\bin\Debug\net5.0\Conditional statement.pdb
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.csproj.AssemblyReference.cache
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.AssemblyInfoInputs.cache
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.AssemblyInfo.cs
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.csproj.CoreCompileInputs.cache
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.dll
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\ref\Conditional statement.dll
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.pdb
+E:\OrangeTasks\C#-Tasks\Task 2(Conditional statement)\Conditional statement\obj\Debug\net5.0\Conditional statement.genruntimeconfig.cache
